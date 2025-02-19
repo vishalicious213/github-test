@@ -5,3 +5,5 @@
 Making change on branch1
 
 Making change on branch2
+
+Making 2nd change to branch2
